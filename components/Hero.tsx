@@ -69,7 +69,7 @@ const Hero: React.FC = () => {
                 <img
                   src={ASSETS.heroModel}
                   alt="Modelo brasileira com cabelos cacheados saudáveis e kit de produtos Cupuaçu"
-                  className="object-cover object-center w-full h-full scale-[0.88] transform hover:scale-[0.92] transition-transform duration-700"
+                  className="object-cover object-center w-full h-full transform hover:scale-105 transition-transform duration-700"
                 />
               </div>
             </div>
